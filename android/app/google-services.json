@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487510807085",
+    "project_id": "topexchanges-b0ca5",
+    "storage_bucket": "topexchanges-b0ca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487510807085:android:1ee7372f5c4fe24a321ea4",
+        "android_client_info": {
+          "package_name": "com.myapp.exchanges.exchanges_crypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487510807085-fvh5965l7e33ls0rb8b44tcrd53bohkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-vwIp9dtfQZWdt2Sgc_7qK_mp39aAOEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487510807085-fvh5965l7e33ls0rb8b44tcrd53bohkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
